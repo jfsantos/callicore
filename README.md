@@ -9,7 +9,7 @@ A classroom-oriented open programming curriculum for math teachers
 
 ## Why? 
 
-High school teachers are often intimidated by programming, but children are expected to learn [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) from an early age. In particular, brazilian teachers don’t learn programming as a part of their academic training, but many schools expect them to work with new media, including interactive tools. This project was born out of a desire to help teachers understand critical programming skills that would allow them to design beautiful, engaging and active learning tools.
+High school teachers are often intimidated by programming, but children are expected to learn [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) from an early age. In particular, Brazilian teachers don’t learn programming as a part of their academic training, but many schools expect them to work with new media, including interactive tools. This project was born out of a desire to help teachers understand critical programming skills that would allow them to design beautiful, engaging and active learning tools.
 
 ## Specific skills for teachers
 
@@ -22,8 +22,7 @@ High school teachers are often intimidated by programming, but children are expe
 
 Our content is focused on the activities proposed around the math curriculum for 15 to 17-year-olds in Brazil. The course can be followed by undergrads who are training to be teachers, or by teachers who have never had any training on programming.
 
-The content is designed from proposed classroom activities; we work backwards to ensure teachers have the knowledge to mod-
-ify and create similar activities on their own. 
+The content is designed from proposed classroom activities; we work backwards to ensure teachers have the knowledge to modify and create similar activities on their own. 
 
 Check out the full content [here](index.md)
 
